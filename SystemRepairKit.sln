@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "SystemRepairKit", "SystemRepairKit.aiproj", "{D4B59A25-5653-4A4C-A0AB-AB168F55CF87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Default = All|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4B59A25-5653-4A4C-A0AB-AB168F55CF87}.All|Default.ActiveCfg = DefaultBuild
+		{D4B59A25-5653-4A4C-A0AB-AB168F55CF87}.All|Default.Build.0 = DefaultBuild
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49CD5A32-774D-4E09-8D05-75B84F0DD759}
+	EndGlobalSection
+EndGlobal
